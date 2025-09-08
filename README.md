@@ -1,3 +1,6 @@
 ### Hi 👋
 
-I'm Egor, a software developer with specialization in Python, Django, GraphQL.
+Привет! Я Егор, разработчик с фокусом в Python, Django и GraphQL. 
+Опыт работы: 6+ лет, выбираю развивать продукты с вниманием к измеримости изменений.
+
+[Резюме](/resume.pdf)
